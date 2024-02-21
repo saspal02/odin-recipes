@@ -1,0 +1,22 @@
+body {
+    font-family: arial, Verdana, Tahoma, sans-serif;
+    background: yellow;
+}
+
+h1 {
+    color: whitesmoke;
+    background-color: blue;
+    width: 400px;
+    text-align: center;
+    border: 12px solid white;
+    margin: 25px auto;
+    padding: 50px 100px;
+}
+
+ul {
+    font-size: larger;
+
+
+
+}
+
